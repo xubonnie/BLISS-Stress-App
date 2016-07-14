@@ -8,5 +8,5 @@ Pitch Video (created for Technovation Competition): https://www.youtube.com/watc
 ###Developed through: Android Studio - Java
 ###Link: https://www.youtube.com/watch?v=6nQ81uEqOxs
 
-##Developed through: AppInventor 
+###Developed through: AppInventor 
 ###Link: https://www.youtube.com/watch?v=WzvELSJAbt0
