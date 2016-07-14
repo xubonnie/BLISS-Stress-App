@@ -1,6 +1,6 @@
 # BLISS-Stress-App
 
-About
+#About
 An app developed to alleviate the user's stress and foster a sense of happiness and relaxation.
 Pitch Video (created for Technovation Competition): https://www.youtube.com/watch?v=qL1-rUH2fN0
 
